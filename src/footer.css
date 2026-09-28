@@ -1,0 +1,11 @@
+footer {
+  padding: 25px 8%;
+  text-align: center;
+  background: #7654d6;
+  border-top: 1px solid #eeeaf7;
+}
+
+ p {
+  color: #eeedf0;
+  font-size: 12px;
+}

@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #29243a;
+}
+
+.works {
+  padding: 80px;
+}
+
+.works h2 {
+  font-size: 35px;
+  margin-bottom: 40px;
+}
+
+.works h2 span {
+  color: #7654d6;
+}
+
+.works-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.works-card {
+  padding: 30px;
+  border: 1px solid #e5e0f0;
+  border-radius: 8px;
+}
+
+.works-card h3 {
+  color: #7654d6;
+  margin-bottom: 20px;
+}
+
+.works-card h4 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.works-card p {
+  color: #777184;
+  line-height: 1.6;
+}
